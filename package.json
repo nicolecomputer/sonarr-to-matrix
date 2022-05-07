@@ -1,0 +1,12 @@
+{
+  "name": "media-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "matrix-bot-sdk": "^0.5.19"
+  }
+}
